@@ -1,15 +1,17 @@
 # AutoGrammer
-Automatic instagram scheduling connecting Unsplash and  Instagram
 
-You'll need the following for this 
+Automatic instagram scheduling connecting Unsplash and Instagram
+
+You'll need the following for this
 
 - Unsplash API Credentials - https://unsplash.com/developers
 - Instagram API via Facebook
 
+Run from venv locally
 
-Run from venv locally 
 
-python -m venv ./venv # Create a virtual environment named venv
+``python3 -m venv .env``
 
-then to run it 
-source .env/bin/activate
+then to run it at future times
+
+``source .env/bin/activate``
